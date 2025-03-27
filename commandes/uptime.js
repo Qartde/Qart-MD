@@ -28,7 +28,7 @@ zokou({ nomCom: 'uptime',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_𝙮𝙚𝙨𝙨𝙚𝙧 𝙢𝙙 𝚞𝚙𝚝𝚒𝚖𝚎 𝚒𝚜: ${runtime(process.uptime())}_*`) 
+                 await repondre(`*_𝐐𝐀𝐑𝐓 𝐌𝐃 𝚞𝚙𝚝𝚒𝚖𝚎 𝚒𝚜: ${runtime(process.uptime())}_*`) 
 
    
 
