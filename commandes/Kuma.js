@@ -33,9 +33,9 @@ const date = moment().format('DD/MM/YYYY');
 ┃⊛│◆ 𝚁𝚊𝚖  : 𝟴/𝟭𝟯𝟮 𝗚𝗕
 ┃⊛│◆ 𝙳𝚊𝚝𝚎  : *${date}* 
 ┃⊛│◆ 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖 : ${os.platform()}
-┃⊛│◆ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 : YESSERTECH
+┃⊛│◆ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 : QART-MD
 ┃⊛│◆ 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 : ${cm.length}
-┃⊛│◆ 𝚃𝚑𝚎𝚖𝚎 : yessertech
+┃⊛│◆ 𝚃𝚑𝚎𝚖𝚎 : Qart 
 ┃⊛└▰▱▰▱▰▱▰▱➻
 ╰▱▰▱▰▱▰⊷▱▰▱▰▱❂\n${readmore}`;
     let menuMsg = `how to use😢`;
@@ -53,12 +53,12 @@ const date = moment().format('DD/MM/YYYY');
 ╰▰▰▰═⊷✺•∞•✺⊷═▱▱▱⊷`
     }
     menuMsg += `
-> code by yessertech\n
+> code by qartMd\n
 `;
    var lien = mybotpic();
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *yessermd*, déveloper Yesser Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *qartmd*, déveloper Qart Md" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
        console.log("🥵🥵 Menu erreur " + e);
@@ -68,7 +68,7 @@ const date = moment().format('DD/MM/YYYY');
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Yessermd*, déveloper Yesser Tech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *qartmd*, déveloper Qart Md" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
