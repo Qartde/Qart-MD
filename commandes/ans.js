@@ -11,7 +11,7 @@ zokou({nomCom:"yesser",reaction:"😎",categorie:"IA"},async(dest,zk,commandeOpt
   const {repondre,ms,arg}=commandeOptions;
   
     if(!arg || !arg[0])
-    {return repondre("🖐️🤠 yes im here....!.")}
+    {return repondre("🖐️😎 yes im here....!.")}
     //var quest = arg.join(' ');
   try{
     
@@ -38,7 +38,7 @@ fetch(`http://api.brainshop.ai/get?bid=177607&key=NwzhALqeO1kubFVD&uid=[uid]&msg
   repondre('let us change topic😂');
 });
 
-  }catch(e){ repondre("🖕🤠🖕 : "+e)}
+  }catch(e){ repondre("🖕🤨🖕 : "+e)}
     
   
   });  
