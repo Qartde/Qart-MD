@@ -14,12 +14,12 @@ const{repondre,ms,dev,superUser}=com;
 
   if(!superUser)
   {
-    return repondre("This command is for owner or YESSER TEACH");
+    return repondre("This command is for owner or QART MD");
   }
 
   const {exec}=require("child_process")
 
-    repondre("YESSER-MD  bot Restarting ⏳");
+    repondre("QART-MD  bot Restarting ⏳");
 
   exec("pm2 restart all");
   
