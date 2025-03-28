@@ -38,7 +38,7 @@ const date = moment().format('DD/MM/YYYY');
 ┃⊛│◆ 𝚃𝚑𝚎𝚖𝚎 : Qart 
 ┃⊛└▰▱▰▱▰▱▰▱➻
 ╰▱▰▱▰▱▰⊷▱▰▱▰▱❂\n${readmore}`;
-    let menuMsg = `how to use😢`;
+    let menuMsg = `Use QART MD`;
     for (const cat in coms) {
         menuMsg += `
 ╭▱▱▱✺ *${cat}* ✺▰▰▰⊷ 
