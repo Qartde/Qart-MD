@@ -38,20 +38,20 @@ const date = moment().format('DD/MM/YYYY');
 ❒───────────────────❒
 
 *GITHUB LINK*
-> https://github.com/Qartde/Rahmani_Md
+> https://github.com/Qartde/Qart-MD
 
 *WHATSAPP CHANNEL*
 > https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T
 ⁠
 ╭───────────────────❒
  │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
- │❒⁠⁠⁠⁠ *DEV1* : *Rahmani Tech*
- │❒⁠⁠⁠⁠ *DEV2* : *SIR RAHMANI MD*
+ │❒⁠⁠⁠⁠ *DEV1* : *Qart MD*
+ │❒⁠⁠⁠⁠ *DEV2* : *SIR QART MD*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-         *POWERED BY RAHMANI MD*
+         *POWERED BY QART MD*
 
 ❒───────────────────❒`;
 
@@ -121,10 +121,10 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *RAHMANI MD IMPORTANT INFO* 
+   *QART MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Qartde/Rahmani_Md
+> https://github.com/Qartde/Qart-MD
 
 *WHATSAPP CHANNEL*
 > https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T
@@ -133,12 +133,12 @@ const date = moment().format('DD/MM/YYYY');
 > https://chat.whatsapp.com/D3dnvm4vsn9HafO6wkqnzF
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *Rahmani Md*
+│❒⁠⁠⁠⁠ *DEV* : *Qart Md*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     𝗥𝗔𝗛𝗠𝗔𝗡𝗜 𝗠𝗗 𝗕𝗢𝗧 
+     𝑸𝑨𝑹𝑻-𝑴𝑫 𝗕𝗢𝗧 
 
 ❒────────────────────❒`;
 
