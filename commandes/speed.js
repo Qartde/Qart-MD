@@ -16,7 +16,7 @@ zokou(
   {
     nomCom: 'ping',
     categorie: 'General',
-    reaction: '🚴',
+    reaction: '💀',
     alias: ['p']
   },
 
@@ -26,14 +26,14 @@ zokou(
     } = commandOptions;
     const start = new Date().getTime();
     const msg = await zk.sendMessage(dest, {
-      text: '*𝒏𝒐 𝒍𝒐𝒗𝒆 𝒏𝒐 𝒔𝒕𝒓𝒆𝒔𝒔.✍︎*',
+      text: '*𝒂𝒍𝒘𝒂𝒚𝒔 𝒒𝒂𝒓𝒕 𝑴𝒅.✍︎*',
     }, {
       quoted: ms
     });
     const end = new Date().getTime();
     const ping = end - start;
     await zk.sendMessage(dest, {
-      text: `*y͟e͟s͟s͟e͟r͟-m͟d͟..🤠*
+      text: `*𝑸𝑨𝑹𝑻+𝑰𝑺+𝑨𝑳𝑾𝑨𝒀𝑺+𝑸𝑨𝑹𝑻*
  *${ping} ms*`, edit: {
         id: msg.key.id, remoteJid: dest
       }});
