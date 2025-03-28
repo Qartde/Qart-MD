@@ -16,7 +16,7 @@ zokou({
     'image': {
       'url': 'https://telegra.ph/file/6710065448c2367f23fcb.jpg'
     },
-    'caption': "🚗𝗥𝗮𝗻𝗱𝗼𝗺 𝘄𝗮𝗹𝗹𝗽𝗮𝗽𝗲𝗿 \n\n 🚘Download it and set it to your wallpaper 𝗙𝗿𝗼𝗺 (YESSER-𝗠𝗗)🚗MADE BY YESSR TECH"
+    'caption': "💥𝗥𝗮𝗻𝗱𝗼𝗺 𝘄𝗮𝗹𝗹𝗽𝗮𝗽𝗲𝗿 \n\n 💥Download it and set it to your wallpaper 𝗙𝗿𝗼𝗺 (QART MD)💥MADE BY QART MD"
   });
 });
 console.log("mon test");
