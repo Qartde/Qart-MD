@@ -91,10 +91,10 @@ ezra({ nomCom: "url", categorie: "General", reaction: "👨🏿‍💻" }, async
                 repondre(`yessermd url: ${catboxUrl}`);
                 break;
             case 'video':
-                repondre(`yessermd url: ${catboxUrl}`);
+                repondre(`qartmd url: ${catboxUrl}`);
                 break;
             case 'audio':
-                repondre(`yessermd url: ${catboxUrl}`);
+                repondre(`qartmd  url: ${catboxUrl}`);
                 break;
             default:
                 repondre('An unknown error occurred.');
