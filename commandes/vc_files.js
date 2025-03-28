@@ -89,7 +89,7 @@ zokou({ nomCom: 'group1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap Here To Join YESSER MD Chatroom* https://chat.whatsapp.com/DFmm1OBboewBk9kEDBrfNv`) 
+                 await repondre(`*Tap Here To Join QART MD Chatroom* https://chat.whatsapp.com/DTnrZzULVtP5r0E9rhoFOj`) 
 
    
 
@@ -129,7 +129,7 @@ zokou({ nomCom: 'vision',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_𝐛𝐨𝐭 𝐜𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝚈𝙴𝚂𝚂𝙴𝚁 𝚃𝙴𝙲𝙷🤠𝐯𝐢𝐬𝐢𝐨𝐧 𝐢𝐬 97162963^𝐬𝐯_*`) 
+                 await repondre(`*_𝐛𝐨𝐭 𝐜𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 QART MD 𝐯𝐢𝐬𝐢𝐨𝐧 𝐢𝐬 97162963^𝐬𝐯_*`) 
 
    
 
@@ -139,10 +139,10 @@ zokou({ nomCom: 'vision',
 
 
   
-zokou({ nomCom: 'cheka',
+zokou({ nomCom: 'trd',
     desc: 'To check runtime',
     Categorie: 'My Contact',
-    reaction: '😂', 
+    reaction: '😮', 
     fromMe: 'true', 
 
 
@@ -150,7 +150,7 @@ zokou({ nomCom: 'cheka',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_tap the link below to join CHEKA 𝐜𝐡𝐚𝐧𝐧𝐞𝐥_* https://whatsapp.com/channel/0029VafooOgAjPXNXqBpW01X _*`) 
+                 await repondre(`*_tap the link below to join trd 𝐜𝐡𝐚𝐧𝐧𝐞𝐥_* https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31 _*`) 
 
    
 
@@ -162,7 +162,7 @@ zokou({ nomCom: 'cheka',
 zokou({ nomCom: 'hack2',
     desc: 'To check runtime',
     Categorie: 'My Contact',
-    reaction: '🤠', 
+    reaction: '😎', 
     fromMe: 'true', 
 
 
@@ -188,8 +188,8 @@ zokou({ nomCom: 'hack2',
     "SENDING LOG DOCUMENTS...",
     "SUCCESSFULLY SENT DATA AND Connection disconnected",
     "BACKLOGS CLEARED",
-    "POWERED BY YESSER MD",
-    "By YESSER TECH`) 
+    "POWERED BY  QART MD",
+    "By QART MD`) 
 
    
 
@@ -211,19 +211,7 @@ zokou({ nomCom: '2025',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_┏━━━━━━━━━━━━━•••
-┃   🤶𝗬𝗘𝗦𝗦𝗘𝗥 𝗠𝗗🎅
-┗━━━━━━━━━━━━━━━
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-🤶 W̶I̶S̶H̶E̶S̶ Y̶O̶U̶ 𝘩𝘢𝘱𝘱𝘺 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-😍  𝘯𝘦𝘸  ༆*2025*༆ 𝘺𝘦𝘢𝘳
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-🎅 𝘢𝘯𝘥 💚𝕞𝕒𝕣𝕣𝕪 𝕔𝕙𝕣𝕚𝕤𝕥𝕚𝕞𝕒𝕤💚
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-🙏𝚝𝚑𝚊𝚗𝚔𝚜 𝙶𝙾𝙳🙏.......❤️`) 
-
-   
+                 await repondre(   
 
 
   }
