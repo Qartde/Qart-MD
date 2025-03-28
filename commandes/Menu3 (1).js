@@ -67,7 +67,7 @@ zokou({ nomCom: "tiara", categorie: "Menu" }, async (dest, zk, commandeOptions) 
             menuMsg += "\t  ║ " + cmd + "" + " \n";
         }
     }
-    var link = "HAPA";
+    var link = "https://files.catbox.moe/xz4dn6.jpg";
     try {
         zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©QART MD BOT" }, { quoted: ms });
     }
