@@ -16,7 +16,7 @@ zokou(
         const data = await getData('8');
         if (!arg || arg.length === 0) {
             // Affichage des données de l'utilisateur
-            const mesg = `◇ *YESSER MD*: ${data.e1}
+            const mesg = `◇ *QART MD*: ${data.e1}
 ◇ *Division🛡️*: ${data.e2}
 ◇ *Classe🏆*: ${data.e3}
 ◇ *Rang XP🔰*: ${data.e4}
