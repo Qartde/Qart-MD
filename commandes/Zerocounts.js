@@ -38,4 +38,4 @@ module.exports.command = () => ({
     usage: 'zero <number> | zero',
     handler
 });
-WhatsAppBotMultiDevice/commands/group/admins/zeroCount.js at master · Yassin994/WhatsAppBotMultiDevice
+WhatsAppBotMultiDevice/commands/group/admins/zeroCount.js at master · QartMd/WhatsAppBotMultiDevice
