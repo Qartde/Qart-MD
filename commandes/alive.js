@@ -43,15 +43,15 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *QART_MD-WABOT*`
+ *𝚀𝙰𝚁𝚃_𝙼𝙳-BOT*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
         zk.sendMessage(dest, { video: { url: lien }, caption: alivemsg }, { quoted: ms });
     }
     catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
+        console.log("🥵🥵 Menu error " + e);
+        repondre("🥵🥵 Menu error " + e);
     }
 } 
 // Checking for .jpeg or .png
@@ -73,12 +73,12 @@ else {
     } else {
         if(!superUser) { repondre("there is no alive for this bot") ; return};
 
-      await   repondre("𝐥𝐢𝐬𝐭𝐞𝐧 𝐲𝐨𝐮𝐫 𝐧𝐨𝐭 𝐜𝐨𝐫𝐫𝐞𝐜𝐭 𝐝𝐨 𝐥𝐢𝐤𝐞 𝐭𝐡𝐢𝐬 .𝐚𝐥𝐢𝐯𝐞");
+      await   repondre("You have not yet saved your alive, to do this;  enter after alive your message and your image or video link in this context: .alive message;lien");
          repondre("don't do fake thinks :)")
      }
  } else {
 
-    if(!superUser) { repondre ("𝑨𝒍𝒘𝒂𝒚𝒔 𝑸𝑨𝑹𝑻 𝑴𝑫") ; return};
+    if(!superUser) { repondre ("Only the owner can  modify the alive") ; return};
 
   
     const texte = arg.join(' ').split(';')[0];
@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre('👉💀 𝑯𝒆𝒚 𝑸𝑨𝑹𝑻 𝒊𝒔 𝑨𝑳𝑾𝑨𝒀𝑺 𝒂𝒍𝒊𝒗𝒆 💀  𝑸𝑨𝑹𝑻 𝑴𝑫')
+repondre(' Hello👋 ,*I am 𝐐𝐀𝐑𝐓 𝐌𝐃👍* _*Am Alive 24/7 Just Like You😊*_ *🌟Thanks To God🌟* _ENJOY LIFE🤗_. ')
 
 }
     });
