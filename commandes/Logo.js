@@ -17,7 +17,7 @@ function addTextproCommand(nom_cmd, text_pro_url, desc) {
             }
             try {
                 let logo_url = await maker.textpro(text_pro_url, query);
-                await ovl.sendMessage(ms_org, { image: { url: logo_url.image }, caption: "\`\`\`code by YESSER MD`\`\`\`" }, { quoted: ms });
+                await ovl.sendMessage(ms_org, { image: { url: logo_url.image }, caption: "\`\`\`code by QART MD`\`\`\`" }, { quoted: ms });
             } catch (error) {
                 console.error(`Erreur avec la commande ${nom_cmd}:`, error.message || error);
             }
