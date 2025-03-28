@@ -69,7 +69,7 @@ zokou(
 *⌚𝐋𝐚𝐭𝐞𝐧𝐜𝐞*: 6mins+ 1⚠️
 *⭕𝐏𝐨𝐫𝐭𝐞́𝐞*: 10m\n▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n
 *⚠️Vous avez 🔟 tours max pour finir votre Adversaire! Sinon la victoire sera donnée par décision selon celui qui a dominé le combat ou qui a été le plus offensif !*
-❤️❤️❤️❤️❤️ *KEEP USING YESSER MD*❤️❤️❤️❤️`;
+❤️❤️❤️❤️❤️ *KEEP USING QART MD*❤️❤️❤️❤️`;
 
             await zk.sendMessage(dest, { image: { url: areneT.image }, caption: ficheDuel }, { quoted: ms });
           //  await enregistrerDuel(duelID, equipe1, equipe2, areneT, statsCustom, 'open');
