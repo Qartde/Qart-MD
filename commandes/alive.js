@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' Hello👋 ,*I am 𝐐𝐀𝐑𝐓 𝐌𝐃👍* _*Am Alive 24/7 Just Like You😊*_ *🌟Thanks To God🌟* _ENJOY LIFE🤗_. ')
+repondre(' Hello👋 ,*I am 𝐐𝐀𝐑𝐓 𝐌𝐃👍* _*Am Alive 24/7 Just Like You😎*_ *🌟Allahu Akbar🌟* _ENJOY LIFE😎_. ')
 
 }
     });
