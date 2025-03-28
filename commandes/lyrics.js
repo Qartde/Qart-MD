@@ -42,7 +42,7 @@ zokou({
 
         // Format the message to send to the user
         const formattedMessage = `
-*YESSER MD LYRICS SEARCH*
+*QART MD LYRICS SEARCH*
 *Title:* ${title}
 *Artist:* ${artist}
 
@@ -57,7 +57,7 @@ ${lyrics}
 
     } catch (error) {
         // Handle any errors that occur
-        repondre(`Error: I was unable to fetch the lyrics. Please try again later.YESSER-MD\n\n${error.message}`);
+        repondre(`Error: I was unable to fetch the lyrics. Please try again later.QART-MD\n\n${error.message}`);
         console.log(error);
     }
 });
