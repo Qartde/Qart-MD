@@ -34,26 +34,26 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-          *RAHMANI MD BOT INFO* 
+          *QART MD BOT INFO* 
 ❒───────────────────❒
 
 *GITHUB LINK*
->https://github.com/Qartde/Rahmani_Md
+>https://github.com/Qartde/Qart-MD
 *CONTACT OWNER*
-> https://wa.me/255693629079
-
+> https://wa.me/255613300056
+>`PAIRING CODE(https://rahmani-md-7xqe.onrender.com/)
 *WHATSAPP GROUP*
 >https://chat.whatsapp.com/D3dnvm4vsn9HafO6wkqnzF
 ⁠
 ╭───────────────────❒
  │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
- │❒⁠⁠⁠⁠ *DEV1* : *Rahmani Md*
- │❒⁠⁠⁠⁠ *DEV2* : *Rahmani tech*
+ │❒⁠⁠⁠⁠ *DEV1* : *Qart Md*
+ │❒⁠⁠⁠⁠ *DEV2* : *Qart MD bot*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-         *POWERED BY RAHMANI MD*
+         *POWERED BY QART MD*
 
 ❒───────────────────❒`;
 
