@@ -252,7 +252,7 @@ zokou({ nomCom: "words", categorie: "Conversion", reaction: "😂" }, async (ori
     // Create the sticker
     const stickerMess = new Sticker(meme, {
       pack: nomAuteurMessage,
-      author: 'yessertech',
+      author: 'QartMd',
       type: StickerTypes.FULL,
       categories: ["🤩", "🎉"],
       id: "12345",
