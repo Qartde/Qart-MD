@@ -77,7 +77,7 @@
        "BOT_NAME" : 
     {
     "description":"put A name for your bot",
-    "value":"QART-MD",
+    "value":"𝑸𝑨𝑹𝑻-𝑴𝑫",
     "required":false
 
     },
@@ -117,7 +117,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Qart Md"
+    "value": "𝐐𝐚𝐫𝐭 𝐌𝐝"
   },
     "NUMERO_OWNER":
   {
