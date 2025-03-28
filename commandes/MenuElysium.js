@@ -12,7 +12,7 @@ zokou(
         if (!arg || arg.length === 0)  {
             const lien = '';
             const msg = ``;
-            zk.sendMessage(dest, { image: { url: 'https://files.catbox.moe/r3x8bb.jpg' }, caption: msg }, { quoted: ms });
+            zk.sendMessage(dest, { image: { url: 'https://files.catbox.moe/xz4dn6.jpg' }, caption: msg }, { quoted: ms });
    
         }
     }
@@ -29,7 +29,7 @@ zokou(
         if (!arg || arg.length === 0)  {
             const lien = '';
             const msg = ``;
-            zk.sendMessage(dest, { image: { url: 'https://files.catbox.moe/r3x8bb.jpg' }, caption: msg }, { quoted: ms });
+            zk.sendMessage(dest, { image: { url: 'https://files.catbox.moe/xz4dn6.jpg' }, caption: msg }, { quoted: ms });
    
         }
     }
@@ -46,7 +46,7 @@ zokou(
         if (!arg || arg.length === 0)  {
             const lien = '';
             const msg = ``;
-            zk.sendMessage(dest, { image: { url: 'https://files.catbox.moe/r3x8bb.jpg' }, caption: msg }, { quoted: ms });
+            zk.sendMessage(dest, { image: { url: 'https://files.catbox.moe/xz4dn6.jpg' }, caption: msg }, { quoted: ms });
    
         }
     }
@@ -63,7 +63,7 @@ zokou(
         if (!arg || arg.length === 0)  {
             const lien = '';
             const msg = ``;
-            zk.sendMessage(dest, { image: { url: 'https://files.catbox.moe/r3x8bb.jpg' }, caption: msg }, { quoted: ms });
+            zk.sendMessage(dest, { image: { url: https://files.catbox.moe/xz4dn6.jpg'' }, caption: msg }, { quoted: ms });
    
         }
     }
@@ -80,7 +80,7 @@ zokou(
         if (!arg || arg.length === 0)  {
             const lien = '';
             const msg = ``;
-            zk.sendMessage(dest, { image: { url: 'https://files.catbox.moe/r3x8bb.jpg' }, caption: msg }, { quoted: ms });
+            zk.sendMessage(dest, { image: { url: 'https://files.catbox.moe/xz4dn6.jpg' }, caption: msg }, { quoted: ms });
    
         }
     }
