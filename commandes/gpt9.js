@@ -1,4 +1,4 @@
-const { ezra } = require("../fredi/ezra");
+const { ezra } = require("zokou");
 const axios = require("axios");
 
 // C'est la commande pour interagir avec ChatGPT thomas
